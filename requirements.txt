@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tensorflow==2.17.0
 tensorflow-hub
 streamlit
@@ -5,3 +6,12 @@ pillow
 numpy
 opencv-python
 libgl1-mesa-glx
+=======
+tensorflow==2.17.0
+tensorflow-hub
+streamlit
+pillow
+numpy
+opencv-python
+libgl1-mesa-glx
+>>>>>>> f32a0e30d9d48634773076e2feb98e2a9a5fc5bc
